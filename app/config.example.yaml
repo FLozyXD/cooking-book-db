@@ -1,0 +1,8 @@
+# Параметры подключения к PostgreSQL.
+# Скопируйте файл в config.yaml и укажите свои значения.
+dbname: cooking_python
+user: postgres
+password: change-me
+host: localhost
+port: 5432
+dbtableprefix: "public."
